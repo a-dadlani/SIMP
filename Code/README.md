@@ -1,3 +1,8 @@
+**Acknowledgement: 
+Amin Zollanvari, Muratkhan Abdirash, Aresh Dadlani, Abibullaev Berdakh, "Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis for Cost-Sensitive Binary Classification," _IEEE Signal Processing Letters_, 26(9), pp. 1300-1304, 2019.
+**
+
+
 Usage
 ============
 Put "tt_data.txt" and "fs_data.txt" into the same directory as the code.<p>
